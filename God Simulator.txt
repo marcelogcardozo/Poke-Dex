@@ -1,3 +1,0 @@
-God Simulator
-
-Simulador do sistema solar, ordenados pelas leis da física e com inteligencia artificial.
